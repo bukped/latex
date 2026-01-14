@@ -64,6 +64,7 @@ Script ini akan otomatis menjalankan:
 1. `pdflatex` untuk kompilasi awal
 2. `bibtex` untuk memproses referensi
 3. `pdflatex` dua kali lagi untuk finalisasi cross-references
+4. Isi konten laporan pada file tex di dalam folder chapters
 
 File utama: `bukped.tex`  
 Output: `bukped.pdf`
