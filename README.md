@@ -16,6 +16,8 @@ Install latex:
     ```
     tlmgr install <package_name>
     ```
+4. Install git scm dan koneksikan ke repository github
+5. Install Antigravity dan ekstensi vscode-pdf
 
 Package yang diperlukan:
 ```bash
@@ -62,3 +64,6 @@ Script ini akan otomatis menjalankan:
 1. `pdflatex` untuk kompilasi awal
 2. `bibtex` untuk memproses referensi
 3. `pdflatex` dua kali lagi untuk finalisasi cross-references
+
+File utama: `bukped.tex`  
+Output: `bukped.pdf`
